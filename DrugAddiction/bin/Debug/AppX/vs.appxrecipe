@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARP-LAP</Machine>
+    <WindowsUser>Aishwarya R Pradhan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BF62C3982F40D00F80C15AC8505D39BDB8EF9436A49046823710F03F3AAB0265</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>94bb8578-92bc-4b8c-b588-363cc2a75861_1.0.0.0_neutral__swgbbb3jwrj2p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>94bb8578-92bc-4b8c-b588-363cc2a75861_swgbbb3jwrj2p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>94bb8578-92bc-4b8c-b588-363cc2a75861</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Aishwarya R Pradhan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-20T18:12:53.741</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\DrugAddiction.exe">
+      <PackagePath>DrugAddiction.exe</PackagePath>
+      <Modified>2014-01-20T18:25:32.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\DrugAddiction.pdb">
+      <PackagePath>DrugAddiction.pdb</PackagePath>
+      <Modified>2014-01-20T18:25:31.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\arrow.png">
+      <PackagePath>Assets\arrow.png</PackagePath>
+      <Modified>2014-01-20T18:12:14.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\help.png">
+      <PackagePath>Assets\help.png</PackagePath>
+      <Modified>2014-01-20T18:12:14.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\six\lsd_fro.png">
+      <PackagePath>Assets\six\lsd_fro.png</PackagePath>
+      <Modified>2014-01-20T18:12:14.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\developer\arp_fro.jpg">
+      <PackagePath>Assets\developer\arp_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\five\coca.jpg">
+      <PackagePath>Assets\five\coca.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\five\coca_fro.jpg">
+      <PackagePath>Assets\five\coca_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\four\brwn.jpg">
+      <PackagePath>Assets\four\brwn.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\four\brwn_fro.jpg">
+      <PackagePath>Assets\four\brwn_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\one\cig.jpg">
+      <PackagePath>Assets\one\cig.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\one\cig_fro.jpg">
+      <PackagePath>Assets\one\cig_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\seven\gym.jpg">
+      <PackagePath>Assets\seven\gym.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\seven\gym_fro.jpg">
+      <PackagePath>Assets\seven\gym_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\six\lsd.jpg">
+      <PackagePath>Assets\six\lsd.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\three\ganja.jpg">
+      <PackagePath>Assets\three\ganja.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\three\ganja_fro.jpg">
+      <PackagePath>Assets\three\ganja_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\two\liq.jpg">
+      <PackagePath>Assets\two\liq.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\two\liq_fro.jpg">
+      <PackagePath>Assets\two\liq_fro.jpg</PackagePath>
+      <Modified>2014-01-20T18:12:14.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-20T17:56:57.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\developer.xaml">
+      <PackagePath>developer.xaml</PackagePath>
+      <Modified>2014-01-20T18:00:32.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\five.xaml">
+      <PackagePath>five.xaml</PackagePath>
+      <Modified>2014-01-20T17:59:39.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\four.xaml">
+      <PackagePath>four.xaml</PackagePath>
+      <Modified>2014-01-20T17:58:41.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-01-20T18:24:37.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\one.xaml">
+      <PackagePath>one.xaml</PackagePath>
+      <Modified>2014-01-20T17:57:50.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\seven.xaml">
+      <PackagePath>seven.xaml</PackagePath>
+      <Modified>2014-01-20T18:00:12.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\six.xaml">
+      <PackagePath>six.xaml</PackagePath>
+      <Modified>2014-01-20T17:59:46.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\three.xaml">
+      <PackagePath>three.xaml</PackagePath>
+      <Modified>2014-01-20T17:58:27.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\two.xaml">
+      <PackagePath>two.xaml</PackagePath>
+      <Modified>2014-01-20T17:58:15.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\web.xaml">
+      <PackagePath>web.xaml</PackagePath>
+      <Modified>2014-01-20T18:00:21.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-20T18:12:52.987</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

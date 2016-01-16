@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="DrugAddiction.one"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugAddiction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF3A3838" Opacity="0.8">
+        <Grid HorizontalAlignment="Left" Height="460" Margin="636,201,0,0" VerticalAlignment="Top" Width="675">
+            <TextBlock HorizontalAlignment="Left" Margin="35,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="640" Height="387" FontSize="20" Foreground="White">
+            	<Run FontFamily="Calibri"/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri"/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri"/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="It is commonly found"/>
+            	<Run FontFamily="Calibri" Text=" in"/>
+            	<Run FontFamily="Calibri" Text=" "/>
+            	<Run FontFamily="Calibri" Text="cigarettes, cigars, bidis, and smokeless tobacco (snuff, spit tobacco, chew)"/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="It is administered by getting "/>
+            	<Run FontFamily="Calibri" Text="Smoked, snorted"/>
+            	<Run FontFamily="Calibri" Text=" and"/>
+            	<Run FontFamily="Calibri" Text=" chewed"/>
+            	<Run FontFamily="Calibri" Text="."/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="It increases blood pressure and heart beating rate."/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="It can cause "/>
+            	<Run FontFamily="Calibri" Text="Chronic lung disease"/>
+            	<Run FontFamily="Calibri" Text="s,"/>
+            	<Run FontFamily="Calibri" Text=" cardiovascular disease"/>
+            	<Run FontFamily="Calibri" Text="s,"/>
+            	<Run FontFamily="Calibri" Text=" stroke"/>
+            	<Run FontFamily="Calibri" Text=","/>
+            	<Run FontFamily="Calibri" Text=" cancers of the mouth, pharynx, larynx, esophagus, stomach, pancreas, cervix, kidney, bladder and acute myeloid leukemia"/>
+            	<Run FontFamily="Calibri" Text="."/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="More over it can also cause "/>
+            	<Run FontFamily="Calibri" Text="adverse pregnancy outcomes"/>
+            	<Run FontFamily="Calibri" Text="."/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri"/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="553" Margin="15,177,0,0" VerticalAlignment="Top" Width="616">
+
+            <Image HorizontalAlignment="Left" Height="347" Margin="0,74,0,0" Source="Assets/one/cig.jpg" VerticalAlignment="Top" Width="596" Stretch="UniformToFill"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="100" Background="Black">
+            <Image x:ConnectionId='1' HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Source="Assets/arrow.png" Stretch="UniformToFill"                      />
+            <TextBlock HorizontalAlignment="Left" Margin="970,10,0,0" TextWrapping="Wrap" Text="Nicotine" Width="311" FontSize="72" TextAlignment="Center" LineHeight="5"/>
+        </Grid>
+    </Grid>
+</Page>
+

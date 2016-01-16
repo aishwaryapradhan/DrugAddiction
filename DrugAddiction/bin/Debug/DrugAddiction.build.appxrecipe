@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARP-LAP</Machine>
+    <WindowsUser>Aishwarya R Pradhan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\DrugAddiction.exe">
+      <PackagePath>DrugAddiction.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\DrugAddiction.pdb">
+      <PackagePath>DrugAddiction.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\arrow.png">
+      <PackagePath>Assets\arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\help.png">
+      <PackagePath>Assets\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\six\lsd_fro.png">
+      <PackagePath>Assets\six\lsd_fro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\developer\arp_fro.jpg">
+      <PackagePath>Assets\developer\arp_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\five\coca.jpg">
+      <PackagePath>Assets\five\coca.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\five\coca_fro.jpg">
+      <PackagePath>Assets\five\coca_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\four\brwn.jpg">
+      <PackagePath>Assets\four\brwn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\four\brwn_fro.jpg">
+      <PackagePath>Assets\four\brwn_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\one\cig.jpg">
+      <PackagePath>Assets\one\cig.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\one\cig_fro.jpg">
+      <PackagePath>Assets\one\cig_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\seven\gym.jpg">
+      <PackagePath>Assets\seven\gym.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\seven\gym_fro.jpg">
+      <PackagePath>Assets\seven\gym_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\six\lsd.jpg">
+      <PackagePath>Assets\six\lsd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\three\ganja.jpg">
+      <PackagePath>Assets\three\ganja.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\three\ganja_fro.jpg">
+      <PackagePath>Assets\three\ganja_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\two\liq.jpg">
+      <PackagePath>Assets\two\liq.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\Assets\two\liq_fro.jpg">
+      <PackagePath>Assets\two\liq_fro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\developer.xaml">
+      <PackagePath>developer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\five.xaml">
+      <PackagePath>five.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\four.xaml">
+      <PackagePath>four.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\one.xaml">
+      <PackagePath>one.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\seven.xaml">
+      <PackagePath>seven.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\six.xaml">
+      <PackagePath>six.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\three.xaml">
+      <PackagePath>three.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\two.xaml">
+      <PackagePath>two.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\web.xaml">
+      <PackagePath>web.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\aishwarya\documents\visual studio 2012\Projects\DrugAddiction\DrugAddiction\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

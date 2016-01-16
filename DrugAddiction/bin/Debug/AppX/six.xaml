@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="DrugAddiction.six"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugAddiction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#FF3A3838" >
+        <Grid HorizontalAlignment="Left" Height="462" Margin="734,184,0,0" VerticalAlignment="Top" Width="597">
+            <TextBlock HorizontalAlignment="Left" Margin="42,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="515" Height="283" FontSize="20">
+            	<Run Text="It is commonly found in"/>
+            	<Run FontFamily="Calibri" Text=" blotter, cubes, microdot yellow sunshine, blue heaven"/>
+            	<Run FontFamily="Calibri" Text="."/>
+            	<LineBreak/>
+            	<Run Text="It is generally "/>
+            	<Run Text="swallowed, absorbed through mouth tissues"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run Text="It can i"/>
+            	<Run Text="ncrease"/>
+            	<Run Text="s"/>
+            	<Run Text=" body temperature, heart rate, blood pressure"/>
+            	<Run Text=","/>
+            	<Run Text=" loss of appetite"/>
+            	<Run Text=","/>
+            	<Run Text=" sweating"/>
+            	<Run Text=","/>
+            	<Run Text=" sleeplessness"/>
+            	<Run Text=","/>
+            	<Run Text=" numbness, dizziness, weakness, tremor"/>
+            	<Run Text=","/>
+            	<Run Text=" impulsive behavior"/>
+            	<Run Text=" and"/>
+            	<Run Text=" rapid shifts in emotion"/>
+            	<Run Text="s."/>
+            	<LineBreak/>
+            	<Run Text="It may also cause "/>
+            	<Run Text="Flashbacks, Hallucinogen Persisting Perception Disorder"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="489" Margin="10,184,0,0" VerticalAlignment="Top" Width="674">
+            <Image HorizontalAlignment="Left" Height="419" Margin="10,10,0,0" VerticalAlignment="Top" Width="654" Source="Assets/six/lsd.jpg" Stretch="UniformToFill" Opacity="0.8"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="100" Background="Black">
+            <Image x:ConnectionId='1' HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Source="Assets/arrow.png" Stretch="UniformToFill"                      />
+            <TextBlock HorizontalAlignment="Left" Margin="970,10,0,0" TextWrapping="Wrap" Text="Lysergide" Width="311" FontSize="72" TextAlignment="Center" LineHeight="5"/>
+        </Grid>
+    </Grid>
+</Page>
+

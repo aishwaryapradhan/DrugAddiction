@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="DrugAddiction.develop"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugAddiction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#FF3A3838">
+        <Grid HorizontalAlignment="Left" Height="398" Margin="692,220,0,0" VerticalAlignment="Top" Width="639">
+            <TextBlock HorizontalAlignment="Right" Margin="0,90,29,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="600" Height="278" Foreground="White" FontSize="20">
+            	<Run Text="Aishwarya Pradhan is a B.Tech. second year student who loves to explore Technology and always tries to explore new fields."/>
+            	<LineBreak/>
+            	<Run Text="This app is just a try to make people aware of the harsh effects of drugs and to make more and more people to work and lead their life in a good way."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="-ARP"/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="495" Margin="66,177,0,0" VerticalAlignment="Top" Width="512">
+            <Image HorizontalAlignment="Left" Height="495" VerticalAlignment="Top" Width="502" Source="Assets/developer/arp_fro.jpg" Stretch="UniformToFill"/>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="100" Background="Black">
+            <Image HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Source="Assets/arrow.png" Stretch="UniformToFill" Tapped="Image_Tapped"/>
+            <TextBlock HorizontalAlignment="Left" Margin="951,10,0,0" TextWrapping="Wrap" Text="About Me" Width="330" FontSize="72" TextAlignment="Center" LineHeight="5"/>
+        </Grid>
+    </Grid>
+</Page>

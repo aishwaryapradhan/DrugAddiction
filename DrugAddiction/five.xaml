@@ -1,0 +1,77 @@
+﻿<Page
+    x:Class="DrugAddiction.five"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugAddiction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#FF3A3838">
+        <Grid HorizontalAlignment="Left" Height="457" Margin="721,157,0,0" VerticalAlignment="Top" Width="609">
+            <TextBlock HorizontalAlignment="Left" Margin="10,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="553" Height="269" FontSize="20">
+            	<Run Text="It is commonly found in "/>
+            	<Run FontFamily="Calibri" Text="blow, bump, C, candy, Charlie, coke, crack, flake, rock, snow"/>
+            	<Run FontFamily="Calibri" Text=" and"/>
+            	<Run FontFamily="Calibri" Text=" toot"/>
+            	<Run FontFamily="Calibri" Text="."/>
+            	<LineBreak/>
+            	<Run FontFamily="Calibri" Text="It is "/>
+            	<Run Text="commonly "/>
+            	<Run Text="snorted, smoked"/>
+            	<Run Text=" or"/>
+            	<Run Text=" injected"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run Text="It causes i"/>
+            	<Run Text="ncrease"/>
+            	<Run Text=" in"/>
+            	<Run Text=" heart rate, blood pressure, body temperature, "/>
+            	<Run Text="affects "/>
+            	<Run Text="metabolism"/>
+            	<Run Text=","/>
+            	<Run Text=" feelings of exhilaration"/>
+            	<Run Text=","/>
+            	<Run Text=" increased energy, mental alertness"/>
+            	<Run Text=","/>
+            	<Run Text=" tremor"/>
+            	<Run Text="s,"/>
+            	<Run Text=" reduced appetite"/>
+            	<Run Text=","/>
+            	<Run Text=" irritability"/>
+            	<Run Text=","/>
+            	<Run Text=" anxiety"/>
+            	<Run Text=","/>
+            	<Run Text=" panic"/>
+            	<Run Text=","/>
+            	<Run Text=" paranoia"/>
+            	<Run Text=","/>
+            	<Run Text=" violent behavior"/>
+            	<Run Text=" and"/>
+            	<Run Text=" psychosis"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run Text="It can also cause loss in w"/>
+            	<Run Text="eight, insomnia"/>
+            	<Run Text=", "/>
+            	<Run Text="cardiovascular complications"/>
+            	<Run Text=","/>
+            	<Run Text=" stroke"/>
+            	<Run Text=" and"/>
+            	<Run Text=" seizures"/>
+            	<Run Text="."/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="511" Margin="10,157,0,0" VerticalAlignment="Top" Width="674">
+            <Grid.Background>
+                <ImageBrush Stretch="Fill"/>
+            </Grid.Background>
+            <Image HorizontalAlignment="Left" Height="415" Margin="34,47,0,0" VerticalAlignment="Top" Width="625" Source="Assets/five/coca.jpg" Stretch="UniformToFill" Opacity="0.8"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="100" Background="Black">
+            <Image HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Source="Assets/arrow.png" Stretch="UniformToFill" Tapped="Image_Tapped"/>
+            <TextBlock HorizontalAlignment="Left" Margin="970,10,0,0" TextWrapping="Wrap" Text="Cocaine" Width="311" FontSize="72" TextAlignment="Center" LineHeight="5"/>
+        </Grid>
+    </Grid>
+</Page>

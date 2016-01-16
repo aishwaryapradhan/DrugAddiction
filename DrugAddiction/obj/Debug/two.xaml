@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="DrugAddiction.two"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugAddiction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#FF3A3838">
+        <Grid HorizontalAlignment="Left" Height="603" Margin="715,155,0,0" VerticalAlignment="Top" Width="651">
+            <TextBlock HorizontalAlignment="Left" Margin="27,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="614" Height="284" FontSize="20">
+            	<Run Text="It is found in"/>
+            	<Run Text=" liquor,"/>
+            	<Run Text=" beer and wine"/>
+            	<Run Text=". It is basically swallowed or drinked."/>
+            	<LineBreak/>
+            	<Run Text="In low doses, "/>
+            	<Run Text="It causes "/>
+            	<Run Text="euphoria, mild stimulation, relaxation, lowered inhibitions"/>
+            	<Run Text="."/>
+            	<LineBreak/>
+            	<Run Text="I"/>
+            	<Run Text="n higher doses,"/>
+            	<Run Text=" It causes"/>
+            	<Run Text=" drowsiness, slurred speech, nausea, emotional volatility, loss of coordination, visual distortions, impaired memory, sexual dysfunction, loss of consciousness"/>
+            	<LineBreak/>
+            	<Run Text="Moreover It "/>
+            	<Run Text="Increase"/>
+            	<Run Text="s"/>
+            	<Run Text=" risk of injuries, violence, fetal damage (in pregnant women)"/>
+            	<Run Text=","/>
+            	<Run Text=" depression"/>
+            	<Run Text=","/>
+            	<Run Text=" neurologic deficits"/>
+            	<Run Text=","/>
+            	<Run Text=" hypertension"/>
+            	<Run Text=","/>
+            	<Run Text=" liver and heart diseas"/>
+            	<Run Text="es and addiction for"/>
+            	<Run Text=" fatal overdose"/>
+            	<Run Text="."/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="569" Margin="10,155,0,0" VerticalAlignment="Top" Width="700">
+            <Image HorizontalAlignment="Left" Height="461" Margin="10,26,0,-37" VerticalAlignment="Top" Width="680" Source="Assets/two/liq.jpg" Opacity="0.7" Stretch="UniformToFill"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="100" Background="Black">
+            <Image x:ConnectionId='1' HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Source="Assets/arrow.png" Stretch="UniformToFill"                      />
+            <TextBlock HorizontalAlignment="Left" Margin="970,10,0,0" TextWrapping="Wrap" Text="Alcohol" Width="311" FontSize="72" TextAlignment="Center" LineHeight="5"/>
+        </Grid>
+    </Grid>
+</Page>
+
